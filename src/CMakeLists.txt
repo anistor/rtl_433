@@ -128,6 +128,7 @@ add_library(r_433 STATIC
     devices/geevon.c
     devices/generic_motion.c
     devices/generic_remote.c
+    devices/generic_rc_power_socket.c
     devices/generic_temperature_sensor.c
     devices/geo_minim.c
     devices/govee.c
